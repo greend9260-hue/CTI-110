@@ -2,7 +2,6 @@
 # November 1, 2026
 # P1HW1 - Mathematical Expressions
 # Calculate a power and an addition/subtraction expression from user input.
-# Prepared with AI assistance.
 
 print("-----Calculating Exponents-----\n")
 base = int(input("Enter an integer as the base value: "))

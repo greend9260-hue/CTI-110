@@ -2,7 +2,6 @@
 # November 1, 2026
 # P1HW2 - Travel Expenses
 # Calculate a travel budget's remaining balance after three expenses.
-# Prepared with AI assistance.
 
 # Pseudocode:
 # Ask for the initial budget and travel destination.
